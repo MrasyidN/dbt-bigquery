@@ -1,4 +1,6 @@
 version: 2
+
+# test genetik dengan yml
 models:
   - name: stg_jaffle_shop_customers
     columns:
